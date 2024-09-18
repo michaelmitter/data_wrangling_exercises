@@ -1,2 +1,2 @@
 # data_wrangling_exercises
-Übungen zum FernUni-Kurs Data-Science (WS 2023)
+Übungen zum FernUni-Kurs Data-Science (WS 2024)
